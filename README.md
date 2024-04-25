@@ -24,7 +24,7 @@ TELEGRAM for contact & Proof: [@SatoruGojox0](https://t.me/SatoruGojox0)
 
 ## Other tools
 
-* [Script for solana to deploy & snipe from 27 different wallets](https://github.com/valerianonocilla/)
+* [Script for solana to deploy & snipe from 27 different wallets](https://github.com/valerianonocilla/Solana-Jito-Bundle-Bot/)
 
 
 ## Support
