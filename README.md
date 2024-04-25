@@ -24,7 +24,7 @@ TELEGRAM for contact & Proof: [@SatoruGojox0](https://t.me/SatoruGojox0)
 
 ## Support
 
-**Lifetime Support** [@SatoruGojox0](https://t.me/SatoruGojox0)
+**Lifetime Support** in: [@SatoruGojox0](https://t.me/SatoruGojox0)
 
 
 ## Full Version and Demo
