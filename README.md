@@ -22,6 +22,11 @@ TELEGRAM for contact & Proof: [@SatoruGojox0](https://t.me/SatoruGojox0)
 * Variable send amounts to look natural and auto rotating keypairs.
 
 
+## Other tools
+
+* [Script for solana to deploy & snipe from 27 different wallets](https://github.com/valerianonocilla/)
+
+
 ## Support
 
 **Lifetime Support** in: [@SatoruGojox0](https://t.me/SatoruGojox0)
